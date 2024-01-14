@@ -1,0 +1,5 @@
+task: segment
+mode: train
+
+model: yolov8m-seg.pt
+data: /data/config.yaml

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Hole', 'Partial', 'Sticker']
+
+roboflow:
+  workspace: toyota-innovation-challenge-d4qqq
+  project: toyota-f2ln8
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/toyota-innovation-challenge-d4qqq/toyota-f2ln8/dataset/2

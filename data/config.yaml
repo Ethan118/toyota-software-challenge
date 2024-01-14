@@ -1,0 +1,8 @@
+train: C:\Users\ethan\Documents\Personal Projects\toyota-software-challenge\data\train\images
+val: C:\Users\ethan\Documents\Personal Projects\toyota-software-challenge\data\val\images
+
+classes: 3
+names:
+  0: 'Hole'
+  1: 'Partial'
+  2: 'Sticker'
