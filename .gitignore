@@ -1,3 +1,8 @@
 __pycache___
 .venv
-runs
+
+# initial weights
+base
+
+# train results
+runs/segment/train7
